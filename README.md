@@ -1,7 +1,7 @@
 <div align=center>
 
 ## GitHub stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CasinGit&show_icons=true&theme=material-palenight)\
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CasinGit&show_icons=true&theme=material-palenight)\ -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CasinGit&layout=compact)
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
