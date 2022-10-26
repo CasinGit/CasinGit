@@ -6,7 +6,7 @@
 
 ## Contacts
 <a href="https://blog.naver.com/kkig30"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
-<a href="mailto:kkig30@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kkig30@naver.com"/></a>
+<a href="mailto:kkig30@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:kkig30@naver.com"/></a>
 <a href="https://www.twitch.tv/casin_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=Twitch&logoColor=white"/></a>
 
 ## Tech Stack
